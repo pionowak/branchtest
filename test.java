@@ -4,6 +4,10 @@ public class test {
         System.out.println("test");
 
         Test2.metodaDruga();
+
+        System.out.println("commit after creating branch b1");
+
+        // ostatnia zmiana
     }
 
 
